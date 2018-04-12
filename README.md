@@ -8,10 +8,11 @@ Assignments
 ------
 *Assignment 1*
 
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 Milwaukee Area Technical College
 ------
 ### IT, Web and Software Developer
