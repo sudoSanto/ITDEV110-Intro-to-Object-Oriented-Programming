@@ -44,9 +44,6 @@ Final App
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 Milwaukee Area Technical College
 ------
