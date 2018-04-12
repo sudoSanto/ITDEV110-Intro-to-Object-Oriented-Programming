@@ -18,7 +18,7 @@ Milwaukee Area Technical College
 ------
 ### IT, Web and Software Developer
 #### Fall 2017
-ITDEV110 - *Intro to Object-Oriented Programming*\
+[ITDEV110 - *Intro to Object-Oriented Programming*](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming "ITDEV110 GitHub Repository")\
 ITDEV117 - *Logic and Problem Solving*\
 IT107 - *Social Networking and Business*\
 VICOM128 - *Web Development with HTML/CSS*
