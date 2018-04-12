@@ -28,7 +28,7 @@ IT107 - *Social Networking and Business*\
 VICOM128 - *Web Development with HTML/CSS*
 
 #### Spring 2018
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ECON201 - *Principles of Microeconomics*\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Transparent.png" alt="ITDEV115 GitHub Repository" width="18" height="18">ECON201 - *Principles of Microeconomics*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="ITDEV115 GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV115-Intermediate-Object-Oriented-Programming "ITDEV115 GitHub Repository")&nbsp;
 ITDEV115 - *Intermediate Object-Oriented Programming*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="ITDEV150 GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV150-Database-Management-with-SQL "ITDEV150 GitHub Repository")&nbsp;
