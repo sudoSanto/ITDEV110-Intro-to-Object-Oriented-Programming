@@ -47,11 +47,11 @@ ITDEV162 - *Client/Server & E-Commerce Implementation*\
 ITDEV177 - *Systems Analysis and Design*
 
 #### Spring 2019
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITDEV198 - *Internship([iStream Financial Services](https://www.istreamfs.com/ "iStream Financial Services"))*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="ITDEV154 GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV154-Data-Structures-and-Programming "ITDEV154 GitHub Repository")&nbsp;
 ITDEV154 - *Data Structures and Programming*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="ITDEV164 GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV164-Web-Programming-2 "ITDEV164 GitHub Repository")&nbsp;
 ITDEV164 - *Web Programming 2*\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITDEV198 - *Internship([iStream Financial Services](https://www.istreamfs.com/ "iStream Financial Services"))*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="ITDEV199 GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV199-Integrated-Project "ITDEV199 GitHub Repository")&nbsp;
 ITDEV199 - *Integrated Project*
 
