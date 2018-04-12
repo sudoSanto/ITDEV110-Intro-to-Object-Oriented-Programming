@@ -9,8 +9,12 @@ Assignments
 *Assignment 1*
 
 
+
+
+
 Milwaukee Area Technical College
 ------
+### IT, Web and Software Developer
 #### Fall 2017
 ITDEV110 - *Intro to Object-Oriented Programming*\
 ITDEV117 - *Logic and Problem Solving*\
