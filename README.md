@@ -24,9 +24,9 @@ Milwaukee Area Technical College
 [VICOM128 - *Web Development with HTML/CSS*](https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS "VICOM128 GitHub Repository")
 
 #### Spring 2018
-<img src="https://github.com/favicon.ico" alt="alt text" width="20" height="20">ECON201 - *Principles of Microeconomics*\
-<img src="https://github.com/favicon.ico" alt="alt text" width="20" height="20">[ITDEV115 - *Intermediate Object-Oriented Programming*](https://github.com/sudoSanto/ITDEV115-Intermediate-Object-Oriented-Programming "ITDEV115 GitHub Repository")\
-<img src="https://github.com/favicon.ico" alt="alt text" width="20" height="20">[ITDEV150 - *Database Management with SQL*](https://github.com/sudoSanto/ITDEV150-Database-Management-with-SQL "ITDEV150 GitHub Repository")\
+<img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">ECON201 - *Principles of Microeconomics*\
+<img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">[ITDEV115 - *Intermediate Object-Oriented Programming*](https://github.com/sudoSanto/ITDEV115-Intermediate-Object-Oriented-Programming "ITDEV115 GitHub Repository")\
+<img src="https://github.com/favicon.ico" alt="alt text" width="30" height="30">[ITDEV150 - *Database Management with SQL*](https://github.com/sudoSanto/ITDEV150-Database-Management-with-SQL "ITDEV150 GitHub Repository")\
 [ITDEV160 - *Web Programming with Scripts JavaScript*](https://github.com/sudoSanto/ITDEV160-Web-Programming-With-Scripts-JavaScript "ITDEV160 GitHub Repository")\
 [ITDEV140 - *Programming with Java*](https://github.com/sudoSanto/ITDEV140-Programming-with-Java "ITDEV140 GitHub Repository")
 
