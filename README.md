@@ -7,33 +7,32 @@ Introduction to C# in Microsoft's .NET.  This course provided the framework for 
 Assignments
 ------
 
-My First App
+**My First App**
 
-Assignment 2
+**Assignment 2**
 
-Tipper
+**Tipper**
 
 [<img src="https://github.com/favicon.ico" alt="VTipper GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_VTipper "VTipper GitHub Repository")&nbsp;
 **VTipper**
 
-Practice Objects
+**Practice Objects**
 
-Insert Fun
+**Insert Fun**
 
-Midterm App
+**Midterm App**
 
-High Low
+**High Low**
 
-High Low 2
+**High Low 2**
 
-Bester
+**Bester**
 
-Guess the Word
+**Guess the Word**
 
-Individual Project - C#alaga
+**Individual Project - C#alaga**
 
-**Final**\
-Final App
+**Final App**
 
 <br/>
 
