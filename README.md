@@ -87,5 +87,5 @@ ITDEV199 - *Integrated Project*
 
 <br/>
 
-[<img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" width="18" height="18">](https://www.linkedin.com/in/matthew-j-dalsanto/ LinkedIn")&nbsp;
+[<img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" width="18" height="18">](https://www.linkedin.com/in/matthew-j-dalsanto/ "LinkedIn")&nbsp;
 
