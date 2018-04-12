@@ -32,11 +32,11 @@ VICOM128 - *Web Development with HTML/CSS*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="ITDEV115 GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV115-Intermediate-Object-Oriented-Programming "ITDEV115 GitHub Repository")&nbsp;
 ITDEV115 - *Intermediate Object-Oriented Programming*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="ITDEV140 GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV140-Programming-with-Java "ITDEV140 GitHub Repository")&nbsp;
-ITDEV140 - *Programming with Java*
+ITDEV140 - *Programming with Java*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="ITDEV150 GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV150-Database-Management-with-SQL "ITDEV150 GitHub Repository")&nbsp;
 ITDEV150 - *Database Management with SQL*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="ITDEV160 GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV160-Web-Programming-With-Scripts-JavaScript "ITDEV160 GitHub Repository")&nbsp;
-ITDEV160 - *Web Programming with Scripts JavaScript*\
+ITDEV160 - *Web Programming with Scripts JavaScript*
 
 #### Fall 2018
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="ITDEV161 GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV161-Web-Programming-1 "ITDEV161 GitHub Repository")&nbsp;
