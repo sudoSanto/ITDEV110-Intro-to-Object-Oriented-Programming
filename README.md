@@ -13,8 +13,7 @@ Milwaukee Area Technical College
 ------
 **Fall 2017**
 
-ITDEV110 - *Intro to Object-Oriented Programming*
-
+ITDEV110 - *Intro to Object-Oriented Programming*\
 ITDEV117 - *Logic and Problem Solving* 
 
 IT107 - *Social Networking and Business* 
