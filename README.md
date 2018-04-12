@@ -18,7 +18,7 @@ Milwaukee Area Technical College
 ------
 ### IT, Web and Software Developer
 #### Fall 2017
-[<img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming "ITDEV110 GitHub Repository")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming "ITDEV110 GitHub Repository")
 ITDEV110 - *Intro to Object-Oriented Programming*\
 [<img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">](https://github.com/sudoSanto/ITDEV117-Logic-and-Problem-Solving "ITDEV117 GitHub Repository")
 ITDEV117 - *Logic and Problem Solving*\
