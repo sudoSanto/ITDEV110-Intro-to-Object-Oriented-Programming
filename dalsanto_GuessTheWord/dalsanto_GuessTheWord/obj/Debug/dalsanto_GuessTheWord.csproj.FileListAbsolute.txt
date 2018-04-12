@@ -1,0 +1,7 @@
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_GuessTheWord\dalsanto_GuessTheWord\bin\Debug\dalsanto_GuessTheWord.exe.config
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_GuessTheWord\dalsanto_GuessTheWord\bin\Debug\dalsanto_GuessTheWord.exe
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_GuessTheWord\dalsanto_GuessTheWord\bin\Debug\dalsanto_GuessTheWord.pdb
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_GuessTheWord\dalsanto_GuessTheWord\obj\Debug\dalsanto_GuessTheWord.csprojResolveAssemblyReference.cache
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_GuessTheWord\dalsanto_GuessTheWord\obj\Debug\dalsanto_GuessTheWord.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_GuessTheWord\dalsanto_GuessTheWord\obj\Debug\dalsanto_GuessTheWord.exe
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_GuessTheWord\dalsanto_GuessTheWord\obj\Debug\dalsanto_GuessTheWord.pdb

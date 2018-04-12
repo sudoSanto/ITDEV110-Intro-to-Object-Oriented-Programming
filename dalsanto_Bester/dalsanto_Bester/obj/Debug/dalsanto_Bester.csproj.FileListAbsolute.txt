@@ -1,0 +1,7 @@
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_Bester\dalsanto_Bester\bin\Debug\dalsanto_Bester.exe.config
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_Bester\dalsanto_Bester\bin\Debug\dalsanto_Bester.exe
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_Bester\dalsanto_Bester\bin\Debug\dalsanto_Bester.pdb
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_Bester\dalsanto_Bester\obj\Debug\dalsanto_Bester.csprojResolveAssemblyReference.cache
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_Bester\dalsanto_Bester\obj\Debug\dalsanto_Bester.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_Bester\dalsanto_Bester\obj\Debug\dalsanto_Bester.exe
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_Bester\dalsanto_Bester\obj\Debug\dalsanto_Bester.pdb

@@ -1,0 +1,21 @@
+C:\Users\Matthew Dal Santo\Google Drive\ITDEV110\CSharp Projects\ProjectConceptApp\ProjectConceptApp\bin\Debug\ProjectConceptApp.exe.config
+C:\Users\Matthew Dal Santo\Google Drive\ITDEV110\CSharp Projects\ProjectConceptApp\ProjectConceptApp\bin\Debug\ProjectConceptApp.exe
+C:\Users\Matthew Dal Santo\Google Drive\ITDEV110\CSharp Projects\ProjectConceptApp\ProjectConceptApp\bin\Debug\ProjectConceptApp.pdb
+C:\Users\Matthew Dal Santo\Google Drive\ITDEV110\CSharp Projects\ProjectConceptApp\ProjectConceptApp\obj\Debug\ProjectConceptApp.csprojResolveAssemblyReference.cache
+C:\Users\Matthew Dal Santo\Google Drive\ITDEV110\CSharp Projects\ProjectConceptApp\ProjectConceptApp\obj\Debug\ProjectConceptApp.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Dal Santo\Google Drive\ITDEV110\CSharp Projects\ProjectConceptApp\ProjectConceptApp\obj\Debug\ProjectConceptApp.exe
+C:\Users\Matthew Dal Santo\Google Drive\ITDEV110\CSharp Projects\ProjectConceptApp\ProjectConceptApp\obj\Debug\ProjectConceptApp.pdb
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\ProjectConceptApp\ProjectConceptApp\bin\Debug\ProjectConceptApp.exe.config
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\ProjectConceptApp\ProjectConceptApp\bin\Debug\ProjectConceptApp.exe
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\ProjectConceptApp\ProjectConceptApp\bin\Debug\ProjectConceptApp.pdb
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\ProjectConceptApp\ProjectConceptApp\obj\Debug\ProjectConceptApp.csprojResolveAssemblyReference.cache
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\ProjectConceptApp\ProjectConceptApp\obj\Debug\ProjectConceptApp.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\ProjectConceptApp\ProjectConceptApp\obj\Debug\ProjectConceptApp.exe
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\ProjectConceptApp\ProjectConceptApp\obj\Debug\ProjectConceptApp.pdb
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\cSHARPataga\ProjectConceptApp\obj\Debug\ProjectConceptApp.csprojResolveAssemblyReference.cache
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\cSHARPataga\ProjectConceptApp\obj\Debug\ProjectConceptApp.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\cSHARPataga\ProjectConceptApp\obj\Debug\ProjectConceptApp.exe
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\cSHARPataga\ProjectConceptApp\obj\Debug\ProjectConceptApp.pdb
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\cSHARPataga\ProjectConceptApp\bin\Debug\ProjectConceptApp.exe.config
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\cSHARPataga\ProjectConceptApp\bin\Debug\ProjectConceptApp.exe
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\cSHARPataga\ProjectConceptApp\bin\Debug\ProjectConceptApp.pdb

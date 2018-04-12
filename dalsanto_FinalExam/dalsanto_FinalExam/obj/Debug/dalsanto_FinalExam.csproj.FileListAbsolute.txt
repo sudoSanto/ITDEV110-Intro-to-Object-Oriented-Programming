@@ -1,0 +1,7 @@
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_FinalExam\dalsanto_FinalExam\bin\Debug\dalsanto_FinalExam.exe.config
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_FinalExam\dalsanto_FinalExam\bin\Debug\dalsanto_FinalExam.exe
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_FinalExam\dalsanto_FinalExam\bin\Debug\dalsanto_FinalExam.pdb
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_FinalExam\dalsanto_FinalExam\obj\Debug\dalsanto_FinalExam.csprojResolveAssemblyReference.cache
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_FinalExam\dalsanto_FinalExam\obj\Debug\dalsanto_FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_FinalExam\dalsanto_FinalExam\obj\Debug\dalsanto_FinalExam.exe
+C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_FinalExam\dalsanto_FinalExam\obj\Debug\dalsanto_FinalExam.pdb

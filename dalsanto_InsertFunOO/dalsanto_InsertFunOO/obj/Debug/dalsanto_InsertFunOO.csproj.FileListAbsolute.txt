@@ -1,0 +1,7 @@
+C:\Users\Matthew Dal Santo\Google Drive\ITDEV110\CSharp Projects\dalsanto_InsertFunOO\dalsanto_InsertFunOO\bin\Debug\dalsanto_InsertFunOO.exe.config
+C:\Users\Matthew Dal Santo\Google Drive\ITDEV110\CSharp Projects\dalsanto_InsertFunOO\dalsanto_InsertFunOO\bin\Debug\dalsanto_InsertFunOO.exe
+C:\Users\Matthew Dal Santo\Google Drive\ITDEV110\CSharp Projects\dalsanto_InsertFunOO\dalsanto_InsertFunOO\bin\Debug\dalsanto_InsertFunOO.pdb
+C:\Users\Matthew Dal Santo\Google Drive\ITDEV110\CSharp Projects\dalsanto_InsertFunOO\dalsanto_InsertFunOO\obj\Debug\dalsanto_InsertFunOO.csprojResolveAssemblyReference.cache
+C:\Users\Matthew Dal Santo\Google Drive\ITDEV110\CSharp Projects\dalsanto_InsertFunOO\dalsanto_InsertFunOO\obj\Debug\dalsanto_InsertFunOO.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Dal Santo\Google Drive\ITDEV110\CSharp Projects\dalsanto_InsertFunOO\dalsanto_InsertFunOO\obj\Debug\dalsanto_InsertFunOO.exe
+C:\Users\Matthew Dal Santo\Google Drive\ITDEV110\CSharp Projects\dalsanto_InsertFunOO\dalsanto_InsertFunOO\obj\Debug\dalsanto_InsertFunOO.pdb
