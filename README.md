@@ -88,5 +88,5 @@ ITDEV199 - *Integrated Project*
 <br/>
 
 [<img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" width="18" height="18">](https://www.linkedin.com/in/matthew-j-dalsanto/ "LinkedIn")&nbsp;
+[<img src="https://wpcom.files.wordpress.com/2017/11/cropped-wordpress.png" alt="WordPress" width="18" height="18">](https://twitter.com/sudoSanto "WordPress")&nbsp;
 [<img src="https://twitter.com/favicon.ico" alt="@sudoSanto" width="18" height="18">](https://twitter.com/sudoSanto "@sudoSanto")&nbsp;
-[<img src="https://sudosaintblog.files.wordpress.com/2017/10/cropped-jackelopesm2.png" alt="WordPress" width="18" height="18">](https://twitter.com/sudoSanto "WordPress")&nbsp;
