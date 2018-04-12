@@ -25,8 +25,7 @@ Milwaukee Area Technical College
 
 #### Spring 2018
 ECON201 - *Principles of Microeconomics*\
-[<img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">]
-(https://github.com/sudoSanto/ITDEV115-Intermediate-Object-Oriented-Programming "ITDEV115 GitHub Repository")
+[<img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">](https://github.com/sudoSanto/ITDEV115-Intermediate-Object-Oriented-Programming "ITDEV115 GitHub Repository")
 ITDEV115 - *Intermediate Object-Oriented Programming*\
 <img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">[ITDEV150 - *Database Management with SQL*](https://github.com/sudoSanto/ITDEV150-Database-Management-with-SQL "ITDEV150 GitHub Repository")\
 [ITDEV160 - *Web Programming with Scripts JavaScript*](https://github.com/sudoSanto/ITDEV160-Web-Programming-With-Scripts-JavaScript "ITDEV160 GitHub Repository")\
