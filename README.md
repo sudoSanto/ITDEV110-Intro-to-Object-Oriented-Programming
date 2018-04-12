@@ -18,13 +18,13 @@ Milwaukee Area Technical College
 ------
 ### IT, Web and Software Developer
 #### Fall 2017
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming "ITDEV110 GitHub Repository")&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming "ITDEV110 GitHub Repository")&nbsp;
 ITDEV110 - *Intro to Object-Oriented Programming*\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">](https://github.com/sudoSanto/ITDEV117-Logic-and-Problem-Solving "ITDEV117 GitHub Repository")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">](https://github.com/sudoSanto/ITDEV117-Logic-and-Problem-Solving "ITDEV117 GitHub Repository")&nbsp;
 ITDEV117 - *Logic and Problem Solving*\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">](https://github.com/sudoSanto/IT107-Social-Networking-and-Business "IT107 GitHub Repository")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">](https://github.com/sudoSanto/IT107-Social-Networking-and-Business "IT107 GitHub Repository")&nbsp;
 IT107 - *Social Networking and Business*\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">](https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS "VICOM128 GitHub Repository")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="alt text" width="18" height="18">](https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS "VICOM128 GitHub Repository")&nbsp;
 VICOM128 - *Web Development with HTML/CSS*
 
 #### Spring 2018
