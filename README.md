@@ -84,3 +84,8 @@ ITDEV199 - *Integrated Project*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PSYCH231 - *Introductory Psychology*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SOCSCI299 - *Elective*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COMART103 - *Creative Design & Composition*
+
+<br/>
+
+[<img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" width="18" height="18">](https://www.linkedin.com/in/matthew-j-dalsanto/ LinkedIn")&nbsp;
+
