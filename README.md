@@ -49,4 +49,4 @@ PSYCH231 - *Introductory Psychology*\
 SOCSCI299 - *Elective*\
 COMART103 - *Creative Design & Composition*
 
-<img src="https://github.com/favicon.ico" alt="alt text" width="10" height="10">
+<img src="https://github.com/favicon.ico" alt="alt text" width="20" height="20">
