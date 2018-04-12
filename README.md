@@ -43,7 +43,6 @@ C#alaga
 Final App
 
 <br/>
-<br/>
 
 Milwaukee Area Technical College
 ------
