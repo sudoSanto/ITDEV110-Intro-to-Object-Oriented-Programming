@@ -48,3 +48,5 @@ NATSCI184 - *Plant Biology*\
 PSYCH231 - *Introductory Psychology*\
 SOCSCI299 - *Elective*\
 COMART103 - *Creative Design & Composition*
+
+<img src="https://github.com/favicon.ico" alt="alt text" width="whatever" height="whatever">
