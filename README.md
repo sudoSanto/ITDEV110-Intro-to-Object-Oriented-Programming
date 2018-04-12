@@ -14,7 +14,7 @@ Assignment 2
 Tipper
 
 [<img src="https://github.com/favicon.ico" alt="VTipper GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_VTipper "VTipper GitHub Repository")&nbsp;
-VTipper
+**VTipper**
 
 Practice Objects
 
