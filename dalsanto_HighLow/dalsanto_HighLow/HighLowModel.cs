@@ -5,11 +5,12 @@ using System.Text;
 using System.Media;
 using System.Threading.Tasks;
 
+//Matthew Dal Santo
+//ITDEV110
+//Assignment 7
+
 namespace HighLowAPP
 {
-    //Matthew Dal Santo
-    //ITDEV110
-    //Assignment 7
     class HighLowModel
     {
         public HighLowModel() { }

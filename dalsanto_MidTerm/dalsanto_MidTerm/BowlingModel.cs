@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Matthew Dal Santo
+//ITDEV110
+//Mid Term
+
 namespace BowlingScores
 {
     class BowlingModel
-    //Matthew Dal Santo
-    //ITDEV110
-    //Mid Term
     {
         public BowlingModel() { }
 
