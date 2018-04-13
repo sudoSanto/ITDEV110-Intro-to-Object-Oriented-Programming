@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Matthew Dal Santo
+//ITDEV110
+//Assignment 6
+
 namespace InsertFunOO
 {
     class Admin
     {
-        //Matthew Dal Santo
-        //ITDEV110
-        //Assignment 6
-
         Game MadLibs = new Game();
 
         public Admin() {}

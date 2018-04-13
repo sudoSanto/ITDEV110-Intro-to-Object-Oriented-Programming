@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Matthew Dal Santo
+//ITDEV110
+//Assignment 6
+
 namespace InsertFunOO
 {
     class InsertFunOOUI
     {
-        //Matthew Dal Santo
-        //ITDEV110
-        //Assignment 6
-
         string madLib1 = "_____________";
         string madLib2 = "_____________";
         string madLib3 = "_____________";
