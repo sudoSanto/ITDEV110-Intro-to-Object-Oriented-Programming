@@ -12,11 +12,11 @@ Assignments
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 2" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_Assignment2 "Assignment 2")&nbsp;
 **Assignment 2**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Lost and needs to be recovered or rewritten.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Lost and needs to be recovered or rewritten.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 3" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_Tipper "Assignment 3")&nbsp;
 **Tipper**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Lost and needs to be recovered or rewritten.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Lost and needs to be recovered or rewritten.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 4" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_VTipper "Assignment 4")&nbsp;
 **VTipper**\
@@ -24,7 +24,7 @@ Assignments
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 5" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_PracticeObjects "Assignment 5")&nbsp;
 **Practice Objects**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Lost and needs to be recovered or rewritten.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Lost and needs to be recovered or rewritten.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 6" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_InsertFunOO "Assignment 6")&nbsp;
 **Insert Fun**\
@@ -36,11 +36,11 @@ Assignments
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 7" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_HighLow "Assignment 7")&nbsp;
 **High Low**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Needs to be rewritten.  Submitted app was lost.  This app functions, but isn't the completed app.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Needs to be rewritten.  Submitted app was lost.  This app functions, but isn't the completed app.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 8" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_HighLow2 "Assignment 8")&nbsp;
 **High Low 2**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Lost and needs to be recovered or rewritten.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Lost and needs to be recovered or rewritten.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 9" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_Bester "Assignment 9")&nbsp;
 **Bester**\
