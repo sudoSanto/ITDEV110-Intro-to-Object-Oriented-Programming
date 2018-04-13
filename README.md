@@ -1,4 +1,4 @@
-ITDEV110-Intro-to-Object-Oriented-Programming
+ITDEV110 Introduction to Object-Oriented Programming
 ------
 ### MATC Fall 2017
 
@@ -6,12 +6,34 @@ Introduction to C# in Microsoft's .NET.  This course provided the framework for 
 
 Assignments
 ------
-*Assignment 1*
 
-<br/>
-<br/>
-<br/>
-<br/>
+**My First App**
+
+**Assignment 2**
+
+**Tipper**
+
+[<img src="https://github.com/favicon.ico" alt="VTipper GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_VTipper "VTipper GitHub Repository")&nbsp;
+**VTipper**
+
+**Practice Objects**
+
+**Insert Fun**
+
+**Midterm App**
+
+**High Low**
+
+**High Low 2**
+
+**Bester**
+
+**Guess the Word**
+
+**Individual Project - C#alaga**
+
+**Final App**
+
 <br/>
 
 Milwaukee Area Technical College
@@ -19,7 +41,7 @@ Milwaukee Area Technical College
 ### IT, Web and Software Developer
 #### Fall 2017
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="ITDEV110 GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming "ITDEV110 GitHub Repository")&nbsp;
-ITDEV110 - *Intro to Object-Oriented Programming*\
+ITDEV110 - *Introduction to Object-Oriented Programming*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="ITDEV117 GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV117-Logic-and-Problem-Solving "ITDEV117 GitHub Repository")&nbsp;
 ITDEV117 - *Logic and Problem Solving*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/favicon.ico" alt="IT107 GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/IT107-Social-Networking-and-Business "IT107 GitHub Repository")&nbsp;
@@ -62,3 +84,8 @@ ITDEV199 - *Integrated Project*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PSYCH231 - *Introductory Psychology*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SOCSCI299 - *Elective*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COMART103 - *Creative Design & Composition*
+
+---
+[<img src="https://github.com/sudoSanto/sudoSantoMedia/blob/master/sudoSantoLogoFull.png" alt="WordPress" height="75">](https://sudosaintblog.wordpress.com/ "WordPress")
+[<img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" width="25" height="25">](https://www.linkedin.com/in/matthew-j-dalsanto/ "LinkedIn")&nbsp;
+[<img src="https://twitter.com/favicon.ico" alt="@sudoSanto" width="25" height="25">](https://twitter.com/sudoSanto "@sudoSanto")&nbsp;
