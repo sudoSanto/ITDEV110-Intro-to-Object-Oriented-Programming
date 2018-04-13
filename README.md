@@ -8,7 +8,7 @@ Assignments
 ------
 [<img src="https://github.com/favicon.ico" alt="Assignment 1" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_MyFirstApp "Assignment 1")&nbsp;
 **My First App**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Lost and needs to be recovered or rewritten.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Lost and needs to be recovered or rewritten.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 2" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_Assignment2 "Assignment 2")&nbsp;
 **Assignment 2**\
