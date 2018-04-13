@@ -2,37 +2,61 @@ ITDEV110 Introduction to Object-Oriented Programming
 ------
 ### MATC Fall 2017
 
-Introduction to C# in Microsoft's .NET.  This course provided the framework for understanding object-oriented languages in future courses.
+Introduction to C# in Microsoft's .NET.  This course provided the framework for understanding object-oriented languages in future courses.  All apps were coded as console apps.
 
 Assignments
 ------
-
+[<img src="https://github.com/favicon.ico" alt="Assignment 1" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_MyFirstApp "Assignment 1")&nbsp;
 **My First App**
+*Lost and needs to be recovered or rewritten.*
 
+[<img src="https://github.com/favicon.ico" alt="Assignment 2" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_Assignment2 "Assignment 2")&nbsp;
 **Assignment 2**
+*Lost and needs to be recovered or rewritten.*
 
+[<img src="https://github.com/favicon.ico" alt="Assignment 3" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_Tipper "Assignment 3")&nbsp;
 **Tipper**
+*Lost and needs to be recovered or rewritten.*
 
-[<img src="https://github.com/favicon.ico" alt="VTipper GitHub Repository" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_VTipper "VTipper GitHub Repository")&nbsp;
+[<img src="https://github.com/favicon.ico" alt="Assignment 4" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_VTipper "Assignment 4")&nbsp;
 **VTipper**
+*Tip calculation app.*
 
+[<img src="https://github.com/favicon.ico" alt="Assignment 5" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_PracticeObjects "Assignment 5")&nbsp;
 **Practice Objects**
+*Lost and needs to be recovered or rewritten.*
 
+[<img src="https://github.com/favicon.ico" alt="Assignment 6" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_InsertFunOO "Assignment 6")&nbsp;
 **Insert Fun**
+*Mad Libs.  The console UI turned out really well.*
 
+[<img src="https://github.com/favicon.ico" alt="Midterm" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_MidTerm "Midterm")&nbsp;
 **Midterm App**
+*Bowling Scores with sound.*
 
+[<img src="https://github.com/favicon.ico" alt="Assignment 7" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_HighLow "Assignment 7")&nbsp;
 **High Low**
+*Needs to be rewritten.  Submitted app was lost.  This app functions, but isn't the completed app.*
 
+[<img src="https://github.com/favicon.ico" alt="Assignment 8" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_HighLow2 "Assignment 8")&nbsp;
 **High Low 2**
+*Lost and needs to be recovered or rewritten.*
 
+[<img src="https://github.com/favicon.ico" alt="Assignment 9" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_Bester "Assignment 9")&nbsp;
 **Bester**
+*Dice rolling game.  UI mimics dice rolling.*
 
+[<img src="https://github.com/favicon.ico" alt="Assignment 10" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_GuessTheWord "Assignment 10")&nbsp;
 **Guess the Word**
+*Hangman type game.*
 
+[<img src="https://github.com/favicon.ico" alt="Individual Project" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_cSHARPalaga "Individual Project")&nbsp;
 **Individual Project - C#alaga**
+*Galaga imitation written in C# console.  This took about 3 months to write.  Will rewrite sometime utilizing object arrays instead of a ton of parallel arrays in a single method class.  Was really proud of this one.*
 
+[<img src="https://github.com/favicon.ico" alt="Final" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_FinalExam "Final")&nbsp;
 **Final App**
+*Student 'database' with console UI.*
 
 <br/>
 
@@ -88,4 +112,5 @@ ITDEV199 - *Integrated Project*
 ---
 [<img src="https://github.com/sudoSanto/sudoSantoMedia/blob/master/sudoSantoLogoFull.png" alt="WordPress" height="75">](https://sudosaintblog.wordpress.com/ "WordPress")
 [<img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" width="25" height="25">](https://www.linkedin.com/in/matthew-j-dalsanto/ "LinkedIn")&nbsp;
-[<img src="https://twitter.com/favicon.ico" alt="@sudoSanto" width="25" height="25">](https://twitter.com/sudoSanto "@sudoSanto")&nbsp;
+[<img src="https://twitter.com/favicon.ico" alt="@sudoSanto" width="25" height="25">](https://twitter.com/sudoSanto "@sudoSanto")&nbsp;\
+*/*WordPress site is a holdover from IT107 and will be replaced with an AWS hosted site.*
