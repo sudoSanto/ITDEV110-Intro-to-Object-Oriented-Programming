@@ -13,7 +13,66 @@ namespace HighLowAPP
     {
         public HighLowView() { }
 
+        int goGo = 0;
         int y = 10;
+        int diffInt;
+        int diffNum;
+        string diffString;
+
+        public int AskDifficulty()
+        {
+            goGo = 1;
+            while (goGo == 1)
+            {
+                Console.Clear();
+
+                Console.SetCursorPosition(5, 1);
+                Console.Write("High/Low Guessing Game!");
+                Console.SetCursorPosition(5, 4);
+                Console.Write("Choose a difficulty!");
+                Console.SetCursorPosition(5, 5);
+                Console.Write("1 for Easy(1-20), 2 for Medium(1-50), 3 for Hard(1-100)!");
+                Console.SetCursorPosition(5, 6);
+                Console.Write("Enter an option : ");
+                diffString = Console.ReadLine();
+                if (Int32.TryParse(diffString, out diffInt) && diffInt > 0 && diffInt < 4)
+                {
+                    goGo = 0;
+                    if (diffInt == 1) { diffNum = 20; }
+                    if (diffInt == 2) { diffNum = 50; }
+                    if (diffInt == 3) { diffNum = 100; }
+                    return diffNum;
+                }
+            }
+            return diffNum;
+        }
+
+        public void ViewCredits(int credits)
+        {
+            Console.SetCursorPosition(45, 1);
+            Console.Write("Total Credits:              ");
+            Console.SetCursorPosition(45, 1);
+            Console.Write("Total Credits: " + credits);
+        }
+
+        public void ViewBet()
+        {
+            Console.SetCursorPosition(5, 6);
+            Console.Write("                            ");
+            Console.SetCursorPosition(5, 6);
+            Console.Write("Bet how much? :   ");
+        }
+
+        public void ShowBetNum(int num)
+        {
+            Console.SetCursorPosition(45, 2);
+            Console.Write("Betting:       ");
+            Console.SetCursorPosition(45, 2);
+            Console.Write("Betting: ");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write(num);
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
+        }
 
         public void ViewSetup()
         {
@@ -26,10 +85,12 @@ namespace HighLowAPP
             Console.SetCursorPosition(5, 1);
             Console.Write("High/Low Guessing Game!");
             Console.SetCursorPosition(5, 2);
-            Console.Write("Guess a number between 1 and 100!");
-            Console.SetCursorPosition(5, 3);
-            Console.Write("Or type 'q' to quit, 'r' to replay!");
+            Console.Write("Guess a number between 1 and " + diffNum + "!");
+            Console.SetCursorPosition(5, 4);
+            Console.Write("Type 'b' change be amount!");
             Console.SetCursorPosition(5, 5);
+            Console.Write("Or type 'q' to quit, 'r' to replay!");
+            Console.SetCursorPosition(5, 6);
             Console.Write("Guess a number? : ");
 
             while (x1 < 100)
@@ -91,7 +152,7 @@ namespace HighLowAPP
 
         public void ClearInput()
         {
-            Console.SetCursorPosition(25, 5);
+            Console.SetCursorPosition(25, 6);
             Console.Write("                                                  ");
         }
 

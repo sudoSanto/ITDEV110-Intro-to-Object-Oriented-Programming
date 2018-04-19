@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{108E1016-1CDE-4C48-B720-EC1C835F6506}</ProjectGuid>
+    <ProjectGuid>{6F8BDFD8-3DE3-49A4-A7B2-AF6672514C4B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>dalsanto_Assignment2</RootNamespace>
     <AssemblyName>dalsanto_Assignment2</AssemblyName>
@@ -41,7 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="AboutMe.cs" />
+    <Compile Include="Getting2KnowUapp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

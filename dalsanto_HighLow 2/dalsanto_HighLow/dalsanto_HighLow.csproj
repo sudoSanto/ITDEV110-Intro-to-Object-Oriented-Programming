@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A3BB5ABC-E4DC-46B7-820D-5347244612F1}</ProjectGuid>
+    <ProjectGuid>{8A613610-93E6-4C1C-AECC-687A588CBCCF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>dalsanto_Tipper</RootNamespace>
-    <AssemblyName>dalsanto_Tipper</AssemblyName>
+    <RootNamespace>dalsanto_HighLow</RootNamespace>
+    <AssemblyName>dalsanto_HighLow</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="HighLowAdmin.cs" />
+    <Compile Include="HighLowAPP.cs" />
+    <Compile Include="HighLowControl.cs" />
+    <Compile Include="HighLowModel.cs" />
+    <Compile Include="HighLowView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

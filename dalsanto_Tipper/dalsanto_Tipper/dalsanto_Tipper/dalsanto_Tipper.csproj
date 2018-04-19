@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AE88C638-4B4F-4503-8264-7F6D761DF8B2}</ProjectGuid>
+    <ProjectGuid>{50A4B6C7-9C2D-4207-9FC0-5B59D1D276C2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>dalsanto_HighLow2</RootNamespace>
-    <AssemblyName>dalsanto_HighLow2</AssemblyName>
+    <RootNamespace>dalsanto_Tipper</RootNamespace>
+    <AssemblyName>dalsanto_Tipper</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="TipCalc.cs" />
+    <Compile Include="DisplayInfo.cs" />
+    <Compile Include="TipperApp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

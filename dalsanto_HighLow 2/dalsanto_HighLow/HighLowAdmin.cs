@@ -23,7 +23,7 @@ namespace HighLowAPP
             Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.SetWindowSize(110, height);
-            View.ViewSetup();
+            //View.ViewSetup();
         }
     }
 }

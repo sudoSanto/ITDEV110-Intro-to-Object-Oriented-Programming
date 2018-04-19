@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{22F8A61B-8E6A-4B80-889C-37F681A3C94B}</ProjectGuid>
+    <ProjectGuid>{79E41B53-5A28-4A1D-83B1-CD832F73E1DC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>dalsanto_PracticeObjects</RootNamespace>
     <AssemblyName>dalsanto_PracticeObjects</AssemblyName>
@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Admin.cs" />
+    <Compile Include="PracticeObjectsApp.cs" />
+    <Compile Include="MathFun.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
