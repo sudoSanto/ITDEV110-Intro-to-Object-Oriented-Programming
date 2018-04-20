@@ -32,19 +32,19 @@ Assignments
 
 [<img src="https://github.com/favicon.ico" alt="Midterm" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_MidTerm "Midterm")&nbsp;
 **Midterm App**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Bowling Scores app with sound.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Bowling Scores app with sound.  Demonstration of MVC: Model, View, Control.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 7" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_HighLow "Assignment 7")&nbsp;
 **High Low**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Needs to be rewritten.  Submitted app was lost.  This app functions, but isn't the completed app.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Guess the number type app.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 8" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_HighLow2 "Assignment 8")&nbsp;
 **High Low 2**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Lost and needs to be recovered or rewritten.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Adds the ability to bet on your guess to the previous assignment.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 9" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_Bester "Assignment 9")&nbsp;
 **Bester**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dice rolling game.  UI mimics dice rolling.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dice rolling game.  UI mimics dice rolling with James Bond themed sound.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 10" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_GuessTheWord "Assignment 10")&nbsp;
 **Guess the Word**\
