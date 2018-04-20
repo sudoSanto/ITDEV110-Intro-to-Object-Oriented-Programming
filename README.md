@@ -8,43 +8,43 @@ Assignments
 ------
 [<img src="https://github.com/favicon.ico" alt="Assignment 1" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_MyFirstApp "Assignment 1")&nbsp;
 **My First App**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Lost and needs to be recovered or rewritten.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*C# Hello World*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 2" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_Assignment2 "Assignment 2")&nbsp;
 **Assignment 2**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Lost and needs to be recovered or rewritten.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Constructors, Methods & DateTime*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 3" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_Tipper "Assignment 3")&nbsp;
 **Tipper**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Lost and needs to be recovered or rewritten.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Very basic Tip calculation app.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 4" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_VTipper "Assignment 4")&nbsp;
 **VTipper**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Tip calculation app.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*More advanced Tip app.  Demonstrates what we've learned about variable manipulation thus far.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 5" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_PracticeObjects "Assignment 5")&nbsp;
 **Practice Objects**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Lost and needs to be recovered or rewritten.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*App demonstrating how Class Objects work.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 6" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_InsertFunOO "Assignment 6")&nbsp;
 **Insert Fun**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mad Libs.  The console UI turned out really well.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mad Libs.  The console UI turned out really well.  This is the first opportunity I had to play with console UI design after discovering how to use Console.ReadKey().*
 
 [<img src="https://github.com/favicon.ico" alt="Midterm" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_MidTerm "Midterm")&nbsp;
 **Midterm App**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Bowling Scores with sound.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Bowling Scores app with sound.  Demonstration of MVC: Model, View, Control.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 7" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_HighLow "Assignment 7")&nbsp;
 **High Low**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Needs to be rewritten.  Submitted app was lost.  This app functions, but isn't the completed app.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Guess the number type app.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 8" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_HighLow2 "Assignment 8")&nbsp;
 **High Low 2**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Lost and needs to be recovered or rewritten.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Adds the ability to bet on your guess to the previous assignment.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 9" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_Bester "Assignment 9")&nbsp;
 **Bester**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dice rolling game.  UI mimics dice rolling.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dice rolling game.  UI mimics dice rolling with James Bond themed sound.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 10" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_GuessTheWord "Assignment 10")&nbsp;
 **Guess the Word**\
@@ -52,7 +52,11 @@ Assignments
 
 [<img src="https://github.com/favicon.ico" alt="Individual Project" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_cSHARPalaga "Individual Project")&nbsp;
 **Individual Project - C#alaga**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Galaga imitation written in C# console.  This took about 3 months to write.  Will rewrite sometime utilizing object arrays instead of a ton of parallel arrays in a single method class.  Was really proud of this one.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Galaga imitation written in C# console.  This took about 1 1/2 months to write.  The program relies on quite a few parallel arrays as we weren't shown object arrays in the course.  The inspiration for it was to create an app that allowed for asynchronous tasks(this wasn't shown in the course and was pieced together from Microsoft docs and the odd Stack Overflow entry.)*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The game itself runs on it's own task while a keyboard listener runs on another.  The game is run from a game class that is instatiated from the base class that monitors keystroaks and passes them to the main game loop.  The main game loop uses Unix Epoch based timer throttles to operate events in one task while it waits for a user to enter input via the keyboard.  Collision logic is factored by assigning each actor an x/y position that determines their console writeline position and gives them a 'hitbox' to allow for actors to have more than one character representing them.  Each actor(besides the player) behaves differently and independantly depending on an index number given to it(enemies, powerups, projectiles).  Cumbersome, but works with what logic was made available in the course.*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Can't understate how proud I was to get this thing working.*
 
 [<img src="https://github.com/favicon.ico" alt="Final" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_FinalExam "Final")&nbsp;
 **Final App**\
