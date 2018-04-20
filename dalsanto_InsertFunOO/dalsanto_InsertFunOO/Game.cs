@@ -12,10 +12,6 @@ namespace InsertFunOO
 {
     class Game
     {
-        //Matthew Dal Santo
-        //ITDEV110
-        //Assignment 6
-
         ConsoleKeyInfo keyPress;
         int stayOn = 1;
         int showPoem = 0;
@@ -32,7 +28,6 @@ namespace InsertFunOO
 
             while (stayOn == 1)
             {
-
                 //This keeps the cursor from jumping around all over.  It stays in the upper lefthand corner.
                 //Also writes over itself, so user keypress input isn't displayed and 'just works'.
                 Console.SetCursorPosition(0, 0);

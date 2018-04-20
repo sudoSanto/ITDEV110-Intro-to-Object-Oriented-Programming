@@ -5,3 +5,10 @@ C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_HighLow\dal
 C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_HighLow\dalsanto_HighLow\obj\Debug\dalsanto_HighLow.csproj.CoreCompileInputs.cache
 C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_HighLow\dalsanto_HighLow\obj\Debug\dalsanto_HighLow.exe
 C:\Users\Matthew Dal Santo\Desktop\ITDEV110\CSharp Projects\dalsanto_HighLow\dalsanto_HighLow\obj\Debug\dalsanto_HighLow.pdb
+C:\Users\Matthew Dal Santo\Documents\GitHub\ITDEV110-Intro-to-Object-Oriented-Programming\dalsanto_HighLow\dalsanto_HighLow\bin\Debug\dalsanto_HighLow.exe.config
+C:\Users\Matthew Dal Santo\Documents\GitHub\ITDEV110-Intro-to-Object-Oriented-Programming\dalsanto_HighLow\dalsanto_HighLow\bin\Debug\dalsanto_HighLow.exe
+C:\Users\Matthew Dal Santo\Documents\GitHub\ITDEV110-Intro-to-Object-Oriented-Programming\dalsanto_HighLow\dalsanto_HighLow\bin\Debug\dalsanto_HighLow.pdb
+C:\Users\Matthew Dal Santo\Documents\GitHub\ITDEV110-Intro-to-Object-Oriented-Programming\dalsanto_HighLow\dalsanto_HighLow\obj\Debug\dalsanto_HighLow.csprojResolveAssemblyReference.cache
+C:\Users\Matthew Dal Santo\Documents\GitHub\ITDEV110-Intro-to-Object-Oriented-Programming\dalsanto_HighLow\dalsanto_HighLow\obj\Debug\dalsanto_HighLow.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Dal Santo\Documents\GitHub\ITDEV110-Intro-to-Object-Oriented-Programming\dalsanto_HighLow\dalsanto_HighLow\obj\Debug\dalsanto_HighLow.exe
+C:\Users\Matthew Dal Santo\Documents\GitHub\ITDEV110-Intro-to-Object-Oriented-Programming\dalsanto_HighLow\dalsanto_HighLow\obj\Debug\dalsanto_HighLow.pdb

@@ -5,6 +5,10 @@ using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 
+//Matthew Dal Santo
+//ITDEV110
+//Assignment 9
+
 namespace dalsanto_Bester
 {
     class BesterSound
@@ -45,7 +49,5 @@ namespace dalsanto_Bester
             Start.SoundLocation = @".\Start.wav";
             Start.Play();
         }
-
-
     }
 }

@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Matthew Dal Santo
+//ITDEV110
+//Assignment 8
+
 namespace HighLowAPP
 {
-    //Matthew Dal Santo
-    //ITDEV110
-    //Assignment 7
     class HighLowView
     {
         public HighLowView() { }

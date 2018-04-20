@@ -5,14 +5,14 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+//Matthew Dal Santo
+//ITDEV110
+//Assignment 5
+
 namespace PracticeObjectsApp
 {
     class PracticeObjectsApp
     {
-        //Matthew Dal Santo
-        //ITDEV107
-        //Assignment 5
-
         static void Main(string[] args)
         {
             //i. In Main instantiate a new object named GetReady of the class Admin.  Use the object to configure the setup the console and display an introduction.

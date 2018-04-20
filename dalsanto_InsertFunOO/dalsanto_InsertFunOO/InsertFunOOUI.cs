@@ -34,7 +34,7 @@ namespace InsertFunOO
         public int MadChoice { get { return madChoice; } set { madChoice = value; } }
 
         //Solution for truncating strings found at https://www.dotnetperls.com/truncate
-        //See the InScreen method.  I decided to use this as it seemed the simplist solution and 
+        //See the InScreen method.  I decided to use this as it seemed the simplest solution and 
         //C# doesn't seem to have a native truncate method.
         string Truncate(string source, int length)
         {
@@ -195,7 +195,6 @@ namespace InsertFunOO
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.Gray;
         }
-
 
         //Display finished MadLibs
         //The layout is a little strange in a couple spots.  I didn't want the text to wrap

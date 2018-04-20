@@ -17,8 +17,6 @@ namespace BowlingScores
         BowlingUI BowlUI = new BowlingUI();
         BowlingModel BowlMod = new BowlingModel();
 
-        //Variables assigned and maintained within BowlingModel class.
-
         //View class sets up the display.  Called from Main.
         public void SetupApp()
         {
@@ -103,6 +101,5 @@ namespace BowlingScores
         {
             BowlUI.DisplayGoodbye();
         }//end Goodbye method
-
     }//end class
 }

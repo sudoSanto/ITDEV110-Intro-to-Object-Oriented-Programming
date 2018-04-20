@@ -5,6 +5,10 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+//Matthew Dal Santo
+//ITDEV110
+//Assignment 3
+
 namespace TipperApp
 {
     class DisplayInfo
@@ -14,15 +18,15 @@ namespace TipperApp
 
         public void FormatInfo(double Tot, double Tip, double TipAndTot, string RestName)
         {
+            string todaytime;
+
             //Just put this in here so it wasn't such an abrupt transition.
             Console.Clear();
             Console.WriteLine("Calculating...");
             Thread.Sleep(1000);
             Console.Clear();
 
-            //As per your comment on my previous assignment
-            //and what we've learned in class I changed my var assignment to string for time.
-            string todaytime = DateTime.Now.ToString("HH:mm tt");
+            todaytime = DateTime.Now.ToString("HH:mm tt");
             Console.WriteLine("\nRestaurant Name: " + RestName);
             Console.WriteLine("Current Time: " + todaytime);
             Console.WriteLine("Bill Total: $" + Tot);

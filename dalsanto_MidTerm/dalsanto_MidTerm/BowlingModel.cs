@@ -56,6 +56,5 @@ namespace BowlingScores
             ScoreAverageCalc = 0;
             GoGoGo2 = 1;
         }//end ResetData method
-
     }//end class
 }

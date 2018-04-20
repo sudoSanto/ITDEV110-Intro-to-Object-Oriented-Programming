@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Matthew Dal Santo
+//ITDEV110
+//Assignment 9
+
 namespace dalsanto_Bester
 {
     class BesterApp
@@ -15,8 +19,7 @@ namespace dalsanto_Bester
 
             Admin.Init();
 
-            Control.Game();
-            
+            Control.Game();            
         }
     }
 }

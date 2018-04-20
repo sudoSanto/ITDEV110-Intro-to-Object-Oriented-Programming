@@ -109,6 +109,5 @@ namespace BowlingScores
             Console.Beep(262, 200);//C
             Console.ReadKey();
         }//end DisplayGoodbye method
-
     }//end class
 }

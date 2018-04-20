@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Matthew Dal Santo
+//ITDEV110
+//Assignment 8
+
 namespace HighLowAPP
 {
-    //Matthew Dal Santo
-    //ITDEV110
-    //Assignment 7
     class HighLowControl
     {
         public HighLowControl() { }
@@ -102,7 +103,6 @@ namespace HighLowAPP
                         UI.ShowBetNum(betNumInt);
                         UI.ViewCredits(credits);
 
-
                         while (goGoGo2 == 1)
                         {
                             Console.SetCursorPosition(25, 8);
@@ -191,6 +191,5 @@ namespace HighLowAPP
                 } 
             }
         }
-
     }
 }

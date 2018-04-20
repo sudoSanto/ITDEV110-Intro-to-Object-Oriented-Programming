@@ -17,7 +17,6 @@ namespace dalsanto_VTipper
             DisplayMethods Disp = new DisplayMethods();
 
             Disp.ConsoleSetup();
-
         }
     }
 }

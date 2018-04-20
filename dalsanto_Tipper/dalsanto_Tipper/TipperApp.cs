@@ -5,14 +5,14 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+//Matthew Dal Santo
+//ITDEV110
+//Assignment 3
+
 namespace TipperApp
 {
     class TipperApp
     {
-        //Matthew Dal Santo
-        //ITDEV110
-        //Assignment 3
-
         static void Main(string[] args)
         {
             //Initialized variables and objects.  Most will be defined later.
@@ -25,7 +25,6 @@ namespace TipperApp
             string RestName;
 
             Console.WriteLine("This app will calculate your tip owed.");
-            //I really wanted to put 20% here.  Being a waiter for 10 years made me wince when I saw 15%.
             Console.WriteLine("The tip calculated will be 15% of the total amount owed.");
             Console.WriteLine("Please enter the total amount of you bill(numeric input only):");
             StTot = Console.ReadLine();
@@ -46,7 +45,6 @@ namespace TipperApp
             }//end catch
             Tot = System.Convert.ToDouble(StTot);
             
-            //Anyone with class would put Trattoria Dal Santo, but I'm not biased or anything.
             Console.WriteLine("What is the name of the restaurant where you are dining?");
             RestName = Console.ReadLine();
 

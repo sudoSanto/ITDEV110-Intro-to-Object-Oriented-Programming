@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Matthew Dal Santo
+//ITDEV110
+//Final
+
 namespace dalsanto_FinalExam
 {
     class FinalAdmin
     {
-        //Matthew Dal Santo
-        //ITDEV110
-        //Assignment 7
-
         public FinalAdmin() { }
 
         public void InitApp()

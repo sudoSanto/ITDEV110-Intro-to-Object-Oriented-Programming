@@ -38,7 +38,7 @@ namespace dalsanto_VTipper
         public DisplayMethods() {}
 
         public void ConsoleSetup()
-            //configure console with a method named ConsoleSetup
+        //configure console with a method named ConsoleSetup
         {
             //the app should remain open till the user quits the app
             while (GetMeOut != 1)
@@ -221,6 +221,5 @@ namespace dalsanto_VTipper
                 Console.WriteLine(RGuest + " total due with tip: $" + RTip);
             }
         }
-
     }
 }

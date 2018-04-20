@@ -13,8 +13,7 @@ namespace BowlingScores
     class BowlingAPP
     {
         static void Main(string[] args)
-        {
-            
+        {            
             //Minimizes number of objects by only having BowlingUI class called from BowlingControl.
             BowlingControl BowlCtrl = new BowlingControl();
 
@@ -26,7 +25,6 @@ namespace BowlingScores
             
             //Close App.
             BowlCtrl.Goodbye();
-
         }
     }
 }

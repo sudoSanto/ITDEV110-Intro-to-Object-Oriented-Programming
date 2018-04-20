@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Matthew Dal Santo
+//ITDEV110
+//Final
+
 namespace dalsanto_FinalExam
 {
     class FinalApp
     {
-        //Matthew Dal Santo
-        //ITDEV110
-        //Assignment 7
 
         static void Main(string[] args)
         {
