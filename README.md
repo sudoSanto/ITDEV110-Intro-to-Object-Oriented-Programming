@@ -8,31 +8,31 @@ Assignments
 ------
 [<img src="https://github.com/favicon.ico" alt="Assignment 1" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_MyFirstApp "Assignment 1")&nbsp;
 **My First App**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Lost and needs to be recovered or rewritten.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*C# Hello World*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 2" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_Assignment2 "Assignment 2")&nbsp;
 **Assignment 2**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Lost and needs to be recovered or rewritten.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Constructors, Methods & DateTime*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 3" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_Tipper "Assignment 3")&nbsp;
 **Tipper**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Lost and needs to be recovered or rewritten.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Very basic Tip calculation app.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 4" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_VTipper "Assignment 4")&nbsp;
 **VTipper**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Tip calculation app.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*More advanced Tip app.  Demonstrates what we've learned about variable manipulation thus far.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 5" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_PracticeObjects "Assignment 5")&nbsp;
 **Practice Objects**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*:x:Lost and needs to be recovered or rewritten.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*App demonstrating how Class Objects work.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 6" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_InsertFunOO "Assignment 6")&nbsp;
 **Insert Fun**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mad Libs.  The console UI turned out really well.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mad Libs.  The console UI turned out really well.  This is the first opportunity I had to play with console UI design after discovering how to use Console.ReadKey().*
 
 [<img src="https://github.com/favicon.ico" alt="Midterm" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_MidTerm "Midterm")&nbsp;
 **Midterm App**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Bowling Scores with sound.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Bowling Scores app with sound.*
 
 [<img src="https://github.com/favicon.ico" alt="Assignment 7" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_HighLow "Assignment 7")&nbsp;
 **High Low**\
