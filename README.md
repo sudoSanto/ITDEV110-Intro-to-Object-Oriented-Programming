@@ -58,8 +58,8 @@ Assignments
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*App as it is needs refactoring, but I can't understate how proud I was to get this thing working.*
 
-**YouTube Demo Video**
 <p align="center">
+  <b>YouTube Demo Video</b><br>
   <a href="https://www.youtube.com/watch?v=90sr2_ausbM" title="YouTube C#alaga Demo"><img src="https://img.youtube.com/vi/90sr2_ausbM/0.jpg" alt="YouTube C#alaga Demo"></a>
 </p>
 
