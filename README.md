@@ -56,11 +56,13 @@ Assignments
 <table border="0" cellspacing="0" cellpadding="1">
 <tr> 
   <td>
+    <p align=left>
+      <b>YouTube Demo Video</b><br>
+      <a href="https://www.youtube.com/watch?v=90sr2_ausbM" title="YouTube C#alaga Demo"><img src="https://img.youtube.com/vi/90sr2_ausbM/0.jpg" alt="YouTube C#alaga Demo" height=150 width=200></a>
+    </p>
   </td>
-    <b>YouTube Demo Video</b><br>
-    <a href="https://www.youtube.com/watch?v=90sr2_ausbM" title="YouTube C#alaga Demo"><img src="https://img.youtube.com/vi/90sr2_ausbM/0.jpg" alt="YouTube C#alaga Demo" height=150 width=200></a>
   <td>
-    
+      <i>Galaga imitation written in C# console.  This took about 1 1/2 months to write.  The program relies on quite a few parallel arrays as we weren't shown object arrays in the course.  The inspiration for it was to create an app that allowed for asynchronous tasks(this wasn't shown in the course and was pieced together from Microsoft docs and the odd Stack Overflow entry.)</i>
   </td>
 </tr>
 </table>
