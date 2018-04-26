@@ -57,7 +57,7 @@ Assignments
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The game itself runs on it's own task while a keyboard listener runs on another.  The game is run from a game class that is instatiated from the base class that monitors keystroaks and passes them to the main game loop.  The main game loop uses Unix Epoch based timer throttles to operate events in one task while it waits for a user to enter input via the keyboard.  Collision logic is factored by assigning each actor an x/y position that determines their console writeline position and gives them a 'hitbox' to allow for actors to have more than one character representing them.  Each actor(besides the player) behaves differently and independantly depending on an index number given to it(enemies, powerups, projectiles).  Cumbersome, but works with what logic was made available in the course.*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*App as it is needs refactoring, but I can't understate how proud I was to get this thing working.*
-
+<p align="center">
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
@@ -68,6 +68,7 @@ Assignments
     </td>
   </tr>
 </table>
+</p>
 <p align="center">
   <b>YouTube Demo Video</b><br>
   <a href="https://www.youtube.com/watch?v=90sr2_ausbM" title="YouTube C#alaga Demo"><img src="https://img.youtube.com/vi/90sr2_ausbM/0.jpg" alt="YouTube C#alaga Demo"></a>
