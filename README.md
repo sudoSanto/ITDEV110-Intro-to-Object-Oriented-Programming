@@ -52,7 +52,18 @@ Assignments
 
 [<img src="https://github.com/favicon.ico" alt="Individual Project" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_cSHARPalaga/ProjectConceptApp "Individual Project")&nbsp;
 **Individual Project - C#alaga**\
-
+<table border="0" cellspacing="0" cellpadding="1">
+<tr> 
+  <td>
+  </td>
+    <b>YouTube Demo Video</b><br>
+    <a href="https://www.youtube.com/watch?v=90sr2_ausbM" title="YouTube C#alaga Demo"><img src="https://img.youtube.com/vi/90sr2_ausbM/0.jpg" alt="YouTube C#alaga Demo" height=150 width=200></a>
+  <td>
+    
+  </td>
+</tr>
+</table>
+|YouTube Demo Video|[![YouTube C#alaga Demo](https://img.youtube.com/vi/90sr2_ausbM/0.jpg)](https://www.youtube.com/watch?v=90sr2_ausbM)|Column1|
 <p align="center">
   <b>YouTube Demo Video</b><br>
   <a href="https://www.youtube.com/watch?v=90sr2_ausbM" title="YouTube C#alaga Demo"><img src="https://img.youtube.com/vi/90sr2_ausbM/0.jpg" alt="YouTube C#alaga Demo" height=150 width=200></a>
