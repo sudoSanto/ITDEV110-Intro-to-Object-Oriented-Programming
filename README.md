@@ -53,7 +53,7 @@ Assignments
 [<img src="https://github.com/favicon.ico" alt="Individual Project" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_cSHARPalaga/ProjectConceptApp "Individual Project")&nbsp;
 **Individual Project - C#alaga**
 
-<table border="0" cellspacing="0" cellpadding="0" frame="box">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr> 
     <td width="200">
       <p align="left">
