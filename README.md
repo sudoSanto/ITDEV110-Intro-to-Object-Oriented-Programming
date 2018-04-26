@@ -51,25 +51,24 @@ Assignments
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Hangman type game.*
 
 [<img src="https://github.com/favicon.ico" alt="Individual Project" width="18" height="18">](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming/tree/master/dalsanto_cSHARPalaga/ProjectConceptApp "Individual Project")&nbsp;
-**Individual Project - C#alaga**\
+**Individual Project - C#alaga**
 
 <table border="0" cellspacing="0" cellpadding="0" frame="box">
   <tr> 
-    <td width=200>
-      <p align=left>
+    <td width="200">
+      <p align="left">
         <b>YouTube Demo Video</b><br>
-        <a href="https://www.youtube.com/watch?v=90sr2_ausbM" title="YouTube C#alaga Demo"><img src="https://img.youtube.com/vi/90sr2_ausbM/0.jpg" alt="YouTube C#alaga Demo" height=150 width=200></a>
+        <a href="https://www.youtube.com/watch?v=90sr2_ausbM" title="YouTube C#alaga Demo"><img src="https://img.youtube.com/vi/90sr2_ausbM/0.jpg" alt="YouTube C#alaga Demo" height="150" width="200"></a>
       </p>
     </td>
     <td valign="top">
-      <p align=top>
+      <p>
+        <br>
         <i>Galaga imitation written in C# console.  This took about 1 1/2 months to write.  The program relies on quite a few parallel arrays as we weren't shown object arrays in the course.  The inspiration for it was to create an app that allowed for asynchronous tasks(this wasn't shown in the course and was pieced together from Microsoft docs and the odd Stack Overflow entry.)</i>
       </p>
     </td>
   </tr>
 </table>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Galaga imitation written in C# console.  This took about 1 1/2 months to write.  The program relies on quite a few parallel arrays as we weren't shown object arrays in the course.  The inspiration for it was to create an app that allowed for asynchronous tasks(this wasn't shown in the course and was pieced together from Microsoft docs and the odd Stack Overflow entry.)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The game itself runs on it's own task while a keyboard listener runs on another.  The game is run from a game class that is instatiated from the base class that monitors keystroaks and passes them to the main game loop.  The main game loop uses Unix Epoch based timer throttles to operate events in one task while it waits for a user to enter input via the keyboard.  Collision logic is factored by assigning each actor an x/y position that determines their console writeline position and gives them a 'hitbox' to allow for actors to have more than one character representing them.  Each actor(besides the player) behaves differently and independantly depending on an index number given to it(enemies, powerups, projectiles).  Cumbersome, but works with what logic was made available in the course.*
 
