@@ -55,7 +55,7 @@ Assignments
 
 <table border="0" cellspacing="0" cellpadding="1">
 <tr> 
-  <td>
+  <td width=200>
     <p align=left>
       <b>YouTube Demo Video</b><br>
       <a href="https://www.youtube.com/watch?v=90sr2_ausbM" title="YouTube C#alaga Demo"><img src="https://img.youtube.com/vi/90sr2_ausbM/0.jpg" alt="YouTube C#alaga Demo" height=150 width=200></a>
