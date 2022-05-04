@@ -1,7 +1,8 @@
-* This repository pinned for nostalgia.  This was my initial foray into a career that I love and I don't ever want to forget where I started.  My brother Christian and I pinned our name tags from the restaurant we used to work at together on the refrigerator to remind ourselves how far we've come, and for engineering, this is another name tag pinned to a refrigerator.
+This was my initial foray into a career that I love.  It's cringe inducing, but I don't ever want to forget where I started.  My brother Christian and I pinned our name tags from the restaurant we used to work at together on the refrigerator to remind ourselves how far we've come, and for engineering, this is another name tag pinned to the refrigerator.
 
+[Larry Domaine](https://www.linkedin.com/in/dominele/), thank you for throwing kindling on the fire.
 
-ITDEV110 Introduction to Object-Oriented Programming
+##ITDEV110 Introduction to Object-Oriented Programming
 ------
 ### MATC Fall 2017
 
