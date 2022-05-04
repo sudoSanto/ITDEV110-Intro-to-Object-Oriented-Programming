@@ -2,7 +2,7 @@ This was my initial foray into a career that I love.  It's cringe inducing, but 
 
 [Larry Domaine](https://www.linkedin.com/in/dominele/), thank you for throwing kindling on the fire.
 
-##ITDEV110 Introduction to Object-Oriented Programming
+ITDEV110 Introduction to Object-Oriented Programming
 ------
 ### MATC Fall 2017
 
